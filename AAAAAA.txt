@@ -1,0 +1,8 @@
+1. mantenimento de usuarios
+2. una dependiencia son oficinas o areas(matenimiento de dependencias)
+3. mantenimiento de perfiles(super administrador, administrador,deribacion,trabajador)
+4. asignar por aplicacion
+5. usuario perfil
+6. permisos
+7. parametros
+8.parametro valor
